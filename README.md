@@ -1,7 +1,7 @@
 # Simulation_E3
 
-Practice 2 
+Practice_2 
 Newspaper
 
-# Meisam Dorri Akhavi
+# MeisaM Dorri Akhavi
 
